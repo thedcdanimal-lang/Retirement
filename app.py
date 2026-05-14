@@ -206,9 +206,9 @@ html_content = f"""
     </h1>
 
     <p class="body-text">
-      We've significantly improved the planner and moved it to a faster,
-      more reliable server. Please update any bookmarks and share the new
-      address with your colleagues.
+      I have significantly improved the planner and moved it to a 
+      more reliable server. There will continue to be improvements
+      to the reports and information to help use the tool.
     </p>
 
     <div class="url-box">&#128279;&nbsp;&nbsp;{NEW_URL}</div>
